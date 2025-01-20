@@ -67,3 +67,7 @@ The application will then schedule the email to be sent at the specified time.
 
 ## Screenshots
 
+![1455e991-09cd-4375-aff0-2646dc9e573a](https://github.com/user-attachments/assets/8979c248-de72-4928-b0c7-bf5ff5187e32)
+
+![c527a309-65e6-4b59-bcfc-92e15909e1ac](https://github.com/user-attachments/assets/d3f4637f-036b-4050-8a5b-503f40ee8715)
+
