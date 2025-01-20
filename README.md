@@ -21,6 +21,12 @@ The **Email Scheduler** is a simple yet powerful tool that allows users to sched
 - **Customizable Email Template**: Use FreeMarker for email template rendering (optional).
 - **User-Friendly Interface**: The terminal-based interface guides users through each step of scheduling their email.
 
+## Technologies Used
+- **Spring Boot**: Framework for building and running the Java application.
+- **JavaMail**: Library for sending and receiving emails.
+- **Cron Expressions**: Used for specifying time-based scheduling of tasks.
+- **Freemarker**: Template engine used to generate email content from templates.
+
 ## Requirements
 
 - Java 17 or higher
