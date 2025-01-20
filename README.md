@@ -2,6 +2,14 @@
 
 The **Email Scheduler** is a simple yet powerful tool that allows users to schedule emails with custom timing, recipient details, and attachments. It uses cron-style scheduling to specify when an email should be sent and integrates with JavaMail for reliable email delivery.
 
+## Screenshots
+
+### Terminal
+![1455e991-09cd-4375-aff0-2646dc9e573a](https://github.com/user-attachments/assets/8979c248-de72-4928-b0c7-bf5ff5187e32)
+
+### Email Logs
+![c527a309-65e6-4b59-bcfc-92e15909e1ac](https://github.com/user-attachments/assets/d3f4637f-036b-4050-8a5b-503f40ee8715)
+
 ## Features
 
 - **Cron-style Scheduling**: Schedule emails with flexible timing using cron expressions (e.g., every hour, specific days of the week, etc.).
@@ -64,10 +72,3 @@ The application will then schedule the email to be sent at the specified time.
 - `0 0/1 * * * ?` - Every minute.
 - `0 0 20 1 * MON` - 8 PM on the first Monday of every month.
 - `0 0 0 1 * ?` - At midnight on the first day of every month.
-
-## Screenshots
-
-![1455e991-09cd-4375-aff0-2646dc9e573a](https://github.com/user-attachments/assets/8979c248-de72-4928-b0c7-bf5ff5187e32)
-
-![c527a309-65e6-4b59-bcfc-92e15909e1ac](https://github.com/user-attachments/assets/d3f4637f-036b-4050-8a5b-503f40ee8715)
-
