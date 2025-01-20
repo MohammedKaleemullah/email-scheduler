@@ -1,7 +1,3 @@
-Here’s a full README for your Email Scheduler application:
-
----
-
 # Email Scheduler
 
 The **Email Scheduler** is a simple yet powerful tool that allows users to schedule emails with custom timing, recipient details, and attachments. It uses cron-style scheduling to specify when an email should be sent and integrates with JavaMail for reliable email delivery.
@@ -71,12 +67,3 @@ The application will then schedule the email to be sent at the specified time.
 
 ## Screenshots
 
-(Include any relevant screenshots of the application’s output or interface if available.)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you want to add anything further!
