@@ -8,5 +8,6 @@ public class DotenvConfig {
     static {
         Dotenv dotenv = Dotenv.configure().load();
         System.setProperty("SPRING_MAIL_PASSWORD", dotenv.get("SPRING_MAIL_PASSWORD"));
+        System.setProperty("SPRING_MAIL", dotenv.get("SPRING_MAIL"));
     }
 }
