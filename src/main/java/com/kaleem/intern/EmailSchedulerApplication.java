@@ -23,9 +23,9 @@ public class EmailSchedulerApplication {
 
         
 
-        boolean continueScheduling = true;
+        boolean waiter = true;
         
-        while (continueScheduling) {
+        while (waiter) {
             try {
 				ConfigurableApplicationContext context = SpringApplication.run(EmailSchedulerApplication.class, args);
                 System.out.println("Welcome to the Email Scheduler Application!");
